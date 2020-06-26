@@ -1,0 +1,16 @@
+{
+  "name": "@gharrower/secrets-manager",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gharrower",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/secret-manager": "^3.1.0",
+    "google-auth-library": "^6.0.2"
+  }
+}
